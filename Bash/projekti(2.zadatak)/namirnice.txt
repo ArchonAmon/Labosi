@@ -1,7 +1,0 @@
-jabuka 3
-banana 4
-Jagoda 5
-dinja 7
-Lubenica 19
-kokos 1
-dinja 4
