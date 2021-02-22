@@ -1,0 +1,1 @@
+void ispis (float *polje, int n);
